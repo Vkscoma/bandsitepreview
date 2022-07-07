@@ -315,6 +315,7 @@ footer {
   /* typography */
   #home > div > nav > div > h1 {
     font-size: 1.5em !important;
+    font-weight: var(--fw-bold);
   }
 
   .about__us--title {
