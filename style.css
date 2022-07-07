@@ -81,10 +81,6 @@ li {
 
 /* --------- Format ----------- */
 
-/* header {
-  padding: 1em;
-} */
-
 .logo {
   margin-left: 1em;
 }
@@ -331,12 +327,6 @@ footer {
     color: var(--clr-light);
   }
 
-  /* ------format ------- */
-  /* body {
-    min-height: 400px;
-    margin-bottom: 100px;
-  } */
-
   header {
     display: flex;
     justify-content: center;
@@ -432,7 +422,7 @@ footer {
     z-index: 1000;
   }
 
-  /* music */
+  /* ---- music ---- */
 
   .music__title {
     font-size: var(--fs-h2);
@@ -454,7 +444,7 @@ footer {
     margin-top: 8em;
   }
 
-  /* form */
+  /* ---- form  ----- */
   .contact__us {
     margin-top: 22em;
   }
