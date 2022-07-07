@@ -310,7 +310,7 @@ footer {
 @media (max-width: 550px) {
   /* typography */
   #home > div > nav > div > h1 {
-    font-size: 1.75em !important;
+    font-size: 1.6em !important;
     font-weight: var(--fw-bold);
   }
 
