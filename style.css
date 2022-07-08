@@ -262,6 +262,18 @@ input[type="checkbox"] {
   cursor: pointer;
 }
 
+.message {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.2rem;
+}
+
+.message .success-style {
+  color: greenyellow;
+  display: none;
+}
+
 /* -------  footer  ------ */
 
 footer {
@@ -329,7 +341,6 @@ footer {
 
   header {
     display: flex;
-    justify-content: center;
     align-items: center;
   }
 
