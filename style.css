@@ -356,6 +356,7 @@ footer {
 
   .logo {
     margin: 0;
+    margin-left: .5em;
   }
 
   .hamburger,
