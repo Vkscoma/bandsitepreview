@@ -133,7 +133,8 @@ li {
 }
 
 .about-us {
-margin: 0 auto;
+  margin: 0 auto;
+  padding-bottom: 1em;
 }
 
 .about__us--container {
@@ -141,9 +142,9 @@ margin: 0 auto;
   max-width: 650px;
 }
 
-@media (max-width: 850px){
+@media (max-width: 650px){
   .about-us {
-    padding-bottom: 1em;
+    padding-bottom: 0;
   }
 }
 
