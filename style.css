@@ -142,12 +142,6 @@ li {
   max-width: 650px;
 }
 
-@media (max-width: 650px){
-  .about-us {
-    padding-bottom: 0;
-  }
-}
-
 /* music section */
 
 .music {
