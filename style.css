@@ -128,11 +128,13 @@ li {
 
 /* -------- about us ----------- */
 
+.main-picture-spacing {
+  min-height: 50vh;
+}
+
 .about__us--container {
   text-align: center;
   max-width: 650px;
-  margin: 30em auto;
-  margin-bottom: 5em;
 }
 
 /* music section */
@@ -367,10 +369,6 @@ footer {
   .about__us--container {
     text-align: center;
     max-width: 350px;
-  }
-
-  .about-us {
-    margin-top: -3em;
   }
 
   .nav__section {
