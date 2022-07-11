@@ -129,7 +129,13 @@ li {
 /* -------- about us ----------- */
 
 .main-picture-spacing {
-  min-height: 50vh;
+  min-height: 80vh;
+}
+
+@media (max-width: 650px){
+  .main-picture-spacing {
+    min-height: 50vh;
+  }
 }
 
 .about-us {
